@@ -1,0 +1,10 @@
+{
+    "entries.content.HostName": "10.1.1.1",
+    "entries.content.ClassName": "Class Name",
+    "entries.content.TypeName": "Whatever this is",
+    "entries.content.ServiceName": "Service Name",
+    "entries.container.ItemName": "What",
+    "entries.container.Something": "Something",
+    "events.system.name": "Event Calls",
+    "events.callback": "Event Callback"
+}
